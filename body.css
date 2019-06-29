@@ -1,0 +1,19 @@
+/* new fonts added
+@font-face {
+    font-family:'PG_Roof' ;
+    src: url('PG_Roof Runners_active_bold-it.ttf');
+}
+/* new fonts added */
+/* @font-face{
+    font-family: 'PG_ROOF_Small';
+    src: url('PG_Roof Runners_active.ttf');
+} */ 
+
+/* styling of body */
+body{
+    background-image: url("background.jpg");}
+    /* min-width: 1100px;
+    min-height: 700px;
+    width: 1350px;
+    max-width: 1350px;
+        overflow: scroll; */

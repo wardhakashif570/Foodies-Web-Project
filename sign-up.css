@@ -1,0 +1,21 @@
+body{
+    background-image: url('background.jpg');
+}
+
+.inner{
+    width: 60%;
+    margin: 10% auto 10% auto;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+
+input{
+    border-radius: 6px 6px 6px 6px;
+    padding: 1% 5%;
+    margin: 2% auto;
+    width: 80%;
+}
+
+input[type="radio"]{
+    width: 10%;
+}

@@ -1,0 +1,29 @@
+.footer{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    display: flex;
+}
+
+.column{
+    display: inline-block;
+    margin: 3%;
+    text-align: justify;
+}
+
+.footer li{
+    list-style: none;
+    padding: 0;
+}
+
+.footer ul{
+    padding: 0;
+}
+
+.footer .text{
+    width: 35%;
+}
+
+.footer .list{
+    width: 15%;
+   
+}
